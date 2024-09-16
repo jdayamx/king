@@ -2,7 +2,7 @@
 ### Plugin type
 - bukkit
 ### Server build
-- paper
+- [paper](https://papermc.io/)
 ### Minecraft
 - current version 1.20.1
 ### Description
