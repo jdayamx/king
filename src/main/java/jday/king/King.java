@@ -12,8 +12,8 @@ import org.bukkit.plugin.java.JavaPlugin;
 import org.checkerframework.checker.nullness.qual.NonNull;
 
 public final class King extends JavaPlugin implements TabCompleter {
-    public final int MIN_WIDTH_HEIGHT = 14;
-    public final int MIN_HEIGHT = 30;
+    public final int MIN_WIDTH_HEIGHT = 16;
+    public final int MIN_HEIGHT = 32;
 
     @Override
     public void onEnable() {
