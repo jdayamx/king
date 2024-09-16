@@ -1,0 +1,4 @@
+name: king
+version: '${project.version}'
+main: jday.king.King
+api-version: '1.20'
