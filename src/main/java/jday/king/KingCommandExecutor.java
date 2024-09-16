@@ -50,9 +50,9 @@ public class KingCommandExecutor implements CommandExecutor, Listener {
     KingCommandExecutor(King plugin) {
         this.king = plugin;
         Objects.requireNonNull(this.king);
-        this.arenaHeight = 30;
+        this.arenaHeight = 32;
         Objects.requireNonNull(this.king);
-        this.arenaWidth = 14;
+        this.arenaWidth = 16;
         this.config = this.king.getConfig();
         this.config.options().copyDefaults(true);
         this.king.saveConfig();

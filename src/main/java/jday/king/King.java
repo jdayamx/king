@@ -34,7 +34,7 @@ public final class King extends JavaPlugin implements TabCompleter {
         List<String> completions = new ArrayList();
         if (command.getName().equalsIgnoreCase("king")) {
             if (args.length == 1) {
-                completions.add("create 14 30");
+                completions.add("create 16 32");
                 completions.add("tnt 1");
                 completions.add("delete");
                 completions.add("edit");
