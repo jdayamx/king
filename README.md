@@ -16,7 +16,9 @@ wintext = "Win!!"
 timeNextTnt = 0.3D
 tntdamage = True
 timer = 10
-arena = ?,?,?,?
+arena =  [World name],[x],[y],[z]
+height = 32
+width = 16
 ```
 ### Current Recommended Versions
 * [Latest Release](https://github.com/jdayamx/king/releases/latest/) supports MC 1.20.*.
