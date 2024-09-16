@@ -10,6 +10,14 @@ Plugin for use on Tiktok streaming services
 
 Follow to the streamer, who use this plugin online on Twitch [p459b](https://www.twitch.tv/p459b)
 
+Put in configuration file *plugin.yml* next parameters:
+```
+wintext = "Win!!"
+timeNextTnt = 0.3D
+tntdamage = True
+timer = 10
+arena = ?,?,?,?
+```
 ### Current Recommended Versions
 * [Latest Release](https://github.com/jdayamx/king/releases/latest/) supports MC 1.20.*.
 
